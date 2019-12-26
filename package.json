@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shuwang0000/typescript/issues"
   },
-  "homepage": "https://github.com/shuwang0000/typescript#readme"
+  "homepage": "https://github.com/shuwang0000/typescript#readme",
+  "dependencies": {
+    "typescript": "^3.7.4"
+  }
 }
